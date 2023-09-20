@@ -1,0 +1,15 @@
+{
+  "name": "tareatablasrestful",
+  "version": "1.0.0",
+  "description": "Tarea - Tablas RESTful (calculadora)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "America Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
