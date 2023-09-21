@@ -164,6 +164,5 @@ http://localhost:4000/results/6/2
 
 ## Información
 
-* ** Docente: Ing. Luis Antonio Ramírez Martínez **
-WEB PLATFORMS
-7CC2 | Facultad de Ingeniería | UACH
+* **Docente: Ing. Luis Antonio Ramírez Martínez**
+* WEB PLATFORMS | 7CC2 | Facultad de Ingeniería | UACH
