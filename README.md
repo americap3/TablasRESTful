@@ -125,7 +125,7 @@ http://localhost:4000/results
 
 También debemos verificar que el "Content-Type" sea "aplication/json"
 
-4. Hacemos clic en "Send" para enviar la solicitud y ver el resultado de la división, tendría que mostrar lo siguiente:
+4. Hacemos clic en "Send" para enviar la solicitud y ver el resultado de la operación, tendría que mostrar lo siguiente:
 
 ```
 {
@@ -142,7 +142,7 @@ También debemos verificar que el "Content-Type" sea "aplication/json"
 http://localhost:4000/results/6/2
 ```
 
-3. Hacemos clic en "Send" para enviar la solicitud y ver el resultado de la suma, tendría que mostrar lo siguiente:
+3. Hacemos clic en "Send" para enviar la solicitud y ver el resultado de la resta, tendría que mostrar lo siguiente:
 
 ```
 {
